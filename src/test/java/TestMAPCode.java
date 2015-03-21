@@ -29,7 +29,7 @@ public class TestMAPCode {
       Set ts = new TreeSet();
       // Add elements to the tree set
       ts.add("C");
-      ts.add(23, "pop", "aces");
+      ts.add("z");
       ts.add("A");
       ts.add("B");
       ts.add("E");
